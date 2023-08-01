@@ -6,6 +6,6 @@ Curso de pip y entornos virtuales con platzi
 Para correr el juego, debes seguir las siguienes instrucciones en la terminal
 
 ```sh
-Entrar en la carpeta game
-ejecuatar el comando $ python main.py
+cd game
+python main.py
 ```
