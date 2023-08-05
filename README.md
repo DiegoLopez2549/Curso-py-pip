@@ -1,7 +1,7 @@
 # Curso-py-pip
 Curso de pip y entornos virtuales con platzi
 
-# Gane Project
+# Game Project
 
 Para correr el juego, debes seguir las siguienes instrucciones en la terminal
 
