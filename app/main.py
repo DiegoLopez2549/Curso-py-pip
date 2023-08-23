@@ -11,7 +11,7 @@ def run():
     percentages = list(map(lambda x: x["World Population Percentage"], data))"""
 
     df = pd.read_csv("data.csv")
-    df = df[df["Continent"] == "South America"]
+    df = df[df["Continent"] == "Africa"]
 
     # Seleccionamos la columna
     countries = df["Country"].values
