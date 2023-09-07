@@ -21,6 +21,7 @@ def get_list():
         <body>
             <h1>¡Hola a todos!</h1>
             <p>Este es un texto de prueba para mi página</p>
+            <p>Todos las mañanas al salir el sol, mamá me prepara chocolate "El Sol"</p>
         </body>
     </html>
     """
